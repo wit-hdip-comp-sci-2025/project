@@ -1,1 +1,1 @@
-<img src="./img/image-20260520221121628.png" alt="image-20260520221121628" style="zoom: 67%;" />
+<img src="./img/image-20260520221121628.png" alt="image-20260520221121628" style="zoom: 80%;" />
